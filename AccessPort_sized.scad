@@ -1,3 +1,6 @@
+/*  This is changed and committed to github (test file) */
+
+
 /*
 Step 1
 - basic parameters
